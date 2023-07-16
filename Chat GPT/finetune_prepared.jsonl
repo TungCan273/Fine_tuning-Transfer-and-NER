@@ -1,0 +1,1 @@
+{"prompt": "find the name has letters @gmail.com in table accounts\n\n###\n\n", "completion": "SELECT * FROM `setalab.chatbot_finetune.accounts` WHERE mail LIKE '%@gmail.com' STOP", "error": "Unrecognized name: mail at [1:57], field name 'mail' is not found\n\n###\n\n"}
