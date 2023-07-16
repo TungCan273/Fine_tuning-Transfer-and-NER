@@ -1,0 +1,502 @@
+{
+  "Example": [
+    {
+      "id": "vn-01",
+      "content": "Hôm nay, tôi gặp em Trần Thị Thanh Hương tại công ty Techcombank.",
+      "annotations": [
+        {"start": 12, "end": 30, "tag_name": "person_name"},
+        {"start": 19, "end": 30, "tag_name": "last_person_name"},
+        {"start": 34, "end": 42, "tag_name": "location_name"},
+        {"start": 43, "end": 54, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-02",
+      "content": "Tôi đã gặp anh Nguyễn Văn An tại quán cà phê Trung Nguyên.",
+      "annotations": [
+        {"start": 11, "end": 23, "tag_name": "person_name"},
+        {"start": 19, "end": 23, "tag_name": "last_person_name"},
+        {"start": 27, "end": 41, "tag_name": "location_name"},
+        {"start": 42, "end": 54, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-03",
+      "content": "Chị Lê Thị Hạnh làm việc tại công ty Vingroup.",
+      "annotations": [
+        {"start": 3, "end": 15, "tag_name": "person_name"},
+        {"start": 9, "end": 15, "tag_name": "last_person_name"},
+        {"start": 18, "end": 25, "tag_name": "location_name"},
+        {"start": 26, "end": 34, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-04",
+      "content": "Anh Phạm Văn Tú là giáo viên tại trường THPT Nguyễn Khuyến.",
+      "annotations": [
+        {"start": 3, "end": 15, "tag_name": "person_name"},
+        {"start": 9, "end": 15, "tag_name": "last_person_name"},
+        {"start": 32, "end": 48, "tag_name": "location_name"},
+        {"start": 26, "end": 48, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-05",
+      "content": "Em Nguyễn Thị Thanh Hà đến từ công ty FPT Telecom.",
+      "annotations": [
+        {"start": 3, "end": 19, "tag_name": "person_name"},
+        {"start": 15, "end": 19, "tag_name": "last_person_name"},
+        {"start": 30, "end": 49, "tag_name": "location_name"},
+        {"start": 38, "end": 49, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-06",
+      "content": "Cô Trần Thị Thu Hà là nhân viên kinh doanh tại công ty Vinasun.",
+      "annotations": [
+        {"start": 3, "end": 18, "tag_name": "person_name"},
+        {"start": 9, "end": 18, "tag_name": "last_person_name"},
+        {"start": 32, "end": 46, "tag_name": "location_name"},
+        {"start": 38, "end": 46, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-07",
+      "content": "Anh Lê Văn Quang đang là sinh viên tại trường Đại học Bách khoa Hà Nội.",
+      "annotations": [
+        {"start": 3, "end": 14, "tag_name": "person_name"},
+        {"start": 9, "end": 14, "tag_name": "last_person_name"},
+        {"start": 35, "end": 54, "tag_name": "location_name"},
+        {"start": 38, "end": 46, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-08",
+      "content": "Em Nguyễn Van Ngọc Ánh học tại trường THPT chuyên Lương Thế Vinh.",
+      "annotations": [
+        {"start": 3, "end": 19, "tag_name": "person_name"},
+        {"start": 15, "end": 19, "tag_name": "last_person_name"},
+        {"start": 30, "end": 48, "tag_name": "location_name"},
+        {"start": 31, "end": 48, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-09",
+      "content": "Chị Phạm Thị Kim Tuyến làm việc tại công ty Tiki.",
+      "annotations": [
+        {"start": 3, "end": 18, "tag_name": "person_name"},
+        {"start": 9, "end": 18, "tag_name": "last_person_name"},
+        {"start": 29, "end": 31, "tag_name": "location_name"},
+        {"start": 27, "end": 31, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-10",
+      "content": "Anh Lê Thanh Bình đến từ công ty VNPT.",
+      "annotations": [
+        {"start": 3, "end": 16, "tag_name": "person_name"},
+        {"start": 9, "end": 16, "tag_name": "last_person_name"},
+        {"start": 32, "end": 48, "tag_name": "location_name"},
+        {"start": 26, "end": 30, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-11",
+      "content": "Cô Nguyễn Thị Hương giảng dạy tại trường Đại học Khoa học Xã hội và Nhân văn Hà Nội.",
+      "annotations": [
+        {"start": 3, "end": 18, "tag_name": "person_name"},
+        {"start": 9, "end": 18, "tag_name": "last_person_name"},
+        {"start": 34, "end": 62, "tag_name": "location_name"},
+        {"start": 38, "end": 46, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-12",
+      "content": "Anh Trần Văn Toàn làm việc tại công ty Vinamilk.",
+      "annotations": [
+        {"start": 3, "end": 15, "tag_name": "person_name"},
+        {"start": 9, "end": 15, "tag_name": "last_person_name"},
+        {"start": 20, "end": 30, "tag_name": "location_name"},
+        {"start": 26, "end": 34, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-13",
+      "content": "Cô Nguyễn Thị Thúy Hằng làm việc tại Ngân hàng Vietcombank.",
+      "annotations": [
+        {"start": 3, "end": 18, "tag_name": "person_name"},
+        {"start": 9, "end": 18, "tag_name": "last_person_name"},
+        {"start": 32, "end": 48, "tag_name": "location_name"},
+        {"start": 32, "end": 45, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-14",
+      "content": "Anh Nguyễn Hữu Hòa đến từ công ty Vinaconex.",
+      "annotations": [
+        {"start": 3, "end": 15, "tag_name": "person_name"},
+        {"start": 9, "end": 15, "tag_name": "last_person_name"},
+        {"start": 28, "end": 34, "tag_name": "location_name"},
+        {"start": 25, "end": 34, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-15",
+      "content": "Cô Trần Thị Hồng Nhung làm việc tại công ty VinGroup.",
+      "annotations": [
+        {"start": 3, "end": 18, "tag_name": "person_name"},
+        {"start": 9, "end": 18, "tag_name": "last_person_name"},
+        {"start": 32, "end": 48, "tag_name": "location_name"},
+        {"start": 29, "end": 38, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-16",
+      "content": "Anh Lê Văn Tài đến từ trường Đại học Kinh tế Quốc dân.",
+      "annotations": [
+        {"start": 3, "end": 12, "tag_name": "person_name"},
+        {"start": 7, "end": 12, "tag_name": "last_person_name"},
+        {"start": 23, "end": 52, "tag_name": "location_name"},
+        {"start": 38, "end": 46, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-17",
+      "content": "Cô Phạm Thị Thu Hà làm việc tại công ty FPT Software.",
+      "annotations": [
+        {"start": 3, "end": 17, "tag_name": "person_name"},
+        {"start": 9, "end": 17, "tag_name": "last_person_name"},
+        {"start": 32, "end": 48, "tag_name": "location_name"},
+        {"start": 27, "end": 41, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-18",
+      "content": "Ngày 2 tháng 9 năm 1945, Chủ tịch Hồ Chí Minh đã đọc Tuyên ngôn độc lập tại quảng trường Ba Đình, Hà Nội.",
+      "annotations": [
+        { "start": 35, "end": 46, "tag_name": "person_name" },
+        { "start": 42, "end": 46, "tag_name": "last_person_name" },
+        { "start": 76, "end": 87, "tag_name": "location_name" },
+        {"start": 38, "end": 46, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-19",
+      "content": "Thẩm phán - Chủ tọa phiên tòa Bà Đặng Thị Tuyết Hải.",
+      "annotations": [
+        { "start": 34, "end": 51, "tag_name": "person_name" },
+        { "start": 52, "end": 51, "tag_name": "last_person_name" }
+      ]
+    },
+    {
+      "id": "vn-20",
+      "content": "Lương Minh Tùng đã đạt được thành công lớn trong cuộc chiến chống dịch COVID-19.",
+      "annotations": [
+        { "start": 0, "end": 14, "tag_name": "person_name" },        
+        { "start": 10, "end": 14, "tag_name": "last_person_name" },
+        { "start": 33, "end": 44, "tag_name": "location_name" }
+      ]
+    },
+    {
+      "id": "vn-21",
+      "content": "Bà Phan Thị Cẩm Ngọc, sinh năm 1975 (Có mặt)",
+      "annotations": [
+        { "start": 4, "end": 21, "tag_name": "person_name" },
+        { "start": 17, "end": 21, "tag_name": "last_person_name" }
+      ]
+    },
+    {
+      "id": "vn-22",
+      "content": "Ông Tô Bình Yi, sinh năm 1970 (Có đơn xin vắng mặt)",
+      "annotations": [
+        { "start": 4, "end": 15, "tag_name": "person_name" },
+        { "start": 4, "end": 15, "tag_name": "last_person_name" }
+      ]
+    },
+    {
+      "id":"vn-23",
+      "content": "Thư ký phiên tòa: Bà Trà Thị Thúy Diễm – Thư ký Tòa án nhân dân Quận 10, Thành phố Hồ Chí Minh. ",
+      "annotations": [
+      { "start": 14, "end": 29, "tag_name": "person_name" },
+      { "start": 25, "end": 29, "tag_name": "last_person_name" },
+      { "start": 44, "end": 61, "tag_name": "organization_name" },
+      { "start": 63, "end": 79, "tag_name": "location_name" }
+      ]
+    },
+    {
+      "id": "vn24",
+      "content": "Ông Tô Bình Phát sinh năm 1958 mất năm 2007 (là con của ông Chen và bà Phân), ông Phát có 02 người con tên Tô My Na và Tô Tuấn Hữu.",
+      "annotations": [
+      { "start": 4, "end": 16, "tag_name": "person_name" },
+      { "start": 12, "end": 16, "tag_name": "last_person_name" },
+      { "start": 47, "end": 54, "tag_name": "person_name" },
+      { "start": 52, "end": 54, "tag_name": "last_person_name" },
+      { "start": 59, "end": 70, "tag_name": "person_name" },
+      { "start": 67, "end": 70, "tag_name": "last_person_name" }
+      ]
+    },
+    {
+      "id": "vn-25",
+      "content": "Anh Lê Quốc Việt làm việc tại công ty Samsung.",
+      "annotations": [
+        {"start": 3, "end": 16, "tag_name": "person_name"},
+        {"start": 9, "end": 16, "tag_name": "last_person_name"},
+        {"start": 29, "end": 37, "tag_name": "location_name"},
+        {"start": 26, "end": 37, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-26",
+      "content": "Chị Trần Thị Kim Liên là nhân viên bán hàng tại cửa hàng Zara.",
+      "annotations": [
+        {"start": 3, "end": 18, "tag_name": "person_name"},
+        {"start": 9, "end": 18, "tag_name": "last_person_name"},
+        {"start": 43, "end": 47, "tag_name": "location_name"},
+        {"start": 39, "end": 47, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-27",
+      "content": "Anh Nguyễn Văn Hải làm việc tại công ty Lazada.",
+      "annotations": [
+        {"start": 3, "end": 16, "tag_name": "person_name"},
+        {"start": 9, "end": 16, "tag_name": "last_person_name"},
+        {"start": 29, "end": 35, "tag_name": "location_name"},
+        {"start": 26, "end": 35, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-28",
+      "content": "Cô Lê Thị Phương Trinh học tại trường Đại học Ngoại ngữ.",
+      "annotations": [
+        {"start": 3, "end": 20, "tag_name": "person_name"},
+        {"start": 9, "end": 20, "tag_name": "last_person_name"},
+        {"start": 34, "end": 49, "tag_name": "location_name"},
+        {"start": 26, "end": 30, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-29",
+      "content": "Anh Phạm Quang Minh đến từ công ty Vinpearl.",
+      "annotations": [
+        {"start": 3, "end": 17, "tag_name": "person_name"},
+        {"start": 9, "end": 17, "tag_name": "last_person_name"},
+        {"start": 27, "end": 35, "tag_name": "location_name"},
+        {"start": 26, "end": 35, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-30",
+      "content": "Chị Trần Thị Ngọc Diệp làm việc tại công ty Vinschool.",
+      "annotations": [
+        {"start": 3, "end": 18, "tag_name": "person_name"},
+        {"start": 9, "end": 18, "tag_name": "last_person_name"},
+        {"start": 32, "end": 42, "tag_name": "location_name"},
+        {"start": 26, "end": 42, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-31",
+      "content": "Anh Nguyễn Thanh Tùng là nhân viên kỹ thuật tại công ty Microsoft.",
+      "annotations": [
+        {"start": 3, "end": 17, "tag_name": "person_name"},
+        {"start": 9, "end": 17, "tag_name": "last_person_name"},
+        {"start": 40, "end": 48, "tag_name": "location_name"},
+        {"start": 26, "end": 48, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-32",
+      "content": "Cô Phan Thị Mai Hương làm việc tại bệnh viện Bạch Mai.",
+      "annotations": [
+        {"start": 3, "end": 17, "tag_name": "person_name"},
+        {"start": 9, "end": 17, "tag_name": "last_person_name"},
+        {"start": 31, "end": 40, "tag_name": "location_name"},
+        {"start": 25, "end": 40, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-33",
+      "content": "Anh Lê Văn Tâm đến từ công ty Google.",
+      "annotations": [
+        {"start": 3, "end": 14, "tag_name": "person_name"},
+        {"start": 9, "end": 14, "tag_name": "last_person_name"},
+        {"start": 24, "end": 30, "tag_name": "location_name"},
+        {"start": 26, "end": 30, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-34",
+      "content": "Cô Trần Thị Thùy Trang làm việc tại công ty Intel.",
+      "annotations": [
+        {"start": 3, "end": 18, "tag_name": "person_name"},
+        {"start": 9, "end": 18, "tag_name": "last_person_name"},
+        {"start": 32, "end": 37, "tag_name": "location_name"},
+        {"start": 26, "end": 37, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-35",
+      "content": "Anh Nguyễn Văn Hùng làm việc tại công ty Grab.",
+      "annotations": [
+        {"start": 3, "end": 16, "tag_name": "person_name"},
+        {"start": 9, "end": 16, "tag_name": "last_person_name"},
+        {"start": 29, "end": 33, "tag_name": "location_name"},
+        {"start": 26, "end": 33, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-36",
+      "content": "Chị Phạm Thị Minh Thư làm việc tại công ty Masan.",
+      "annotations": [
+        {"start": 3, "end": 18, "tag_name": "person_name"},
+        {"start": 9, "end": 18, "tag_name": "last_person_name"},
+        {"start": 32, "end": 37, "tag_name": "location_name"},
+        {"start": 26, "end": 37, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-37",
+      "content": "Anh Trần Văn Dũng là giáo viên tại trường Tiểu học Kim Liên.",
+      "annotations": [
+        {"start": 3, "end": 15, "tag_name": "person_name"},
+        {"start": 9, "end": 15, "tag_name": "last_person_name"},
+        {"start": 29, "end": 43, "tag_name": "location_name"},
+        {"start": 38, "end": 43, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-38",
+      "content": "Cô Lê Thị Thu Thảo làm việc tại công ty Unilever.",
+      "annotations": [
+        {"start": 3, "end": 18, "tag_name": "person_name"},
+        {"start": 9, "end": 18, "tag_name": "last_person_name"},
+        {"start": 32, "end": 40, "tag_name": "location_name"},
+        {"start": 26, "end": 40, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-39",
+      "content": "Anh Nguyễn Minh Tâm làm việc tại công ty VinFast.",
+      "annotations": [
+        {"start": 3, "end": 15, "tag_name": "person_name"},
+        {"start": 9, "end": 15, "tag_name": "last_person_name"},
+        {"start": 29, "end": 36, "tag_name": "location_name"},
+        {"start": 26, "end": 36, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-40",
+      "content": "Cô Phạm Thị Thu Huyền làm việc tại công ty P&G.",
+      "annotations": [
+        {"start": 3, "end": 18, "tag_name": "person_name"},
+        {"start": 9, "end": 18, "tag_name": "last_person_name"},
+        {"start": 32, "end": 34, "tag_name": "location_name"},
+        {"start": 26, "end": 34, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-41",
+      "content": "Anh Lê Thanh Thành đến từ công ty FrieslandCampina.",
+      "annotations": [
+        {"start": 3, "end": 17, "tag_name": "person_name"},
+        {"start": 9, "end": 17, "tag_name": "last_person_name"},
+        {"start": 27, "end": 43, "tag_name": "location_name"},
+        {"start": 26, "end": 43, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-42",
+      "content": "Cô Nguyễn Thị Hoa làm việc tại công ty Nike.",
+      "annotations": [
+        {"start": 3, "end": 17, "tag_name": "person_name"},
+        {"start": 9, "end": 17, "tag_name": "last_person_name"},
+        {"start": 31, "end": 35, "tag_name": "location_name"},
+        {"start": 26, "end": 35, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-43",
+      "content": "Anh Trần Văn Tuấn đến từ công ty VinCommerce.",
+      "annotations": [
+        {"start": 3, "end": 15, "tag_name": "person_name"},
+        {"start": 9, "end": 15, "tag_name": "last_person_name"},
+        {"start": 27, "end": 39, "tag_name": "location_name"},
+        {"start": 26, "end": 39, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-44",
+      "content": "Cô Lê Thị Thanh Hương làm việc tại công ty Vinhomes.",
+      "annotations": [
+        {"start": 3, "end": 18, "tag_name": "person_name"},
+        {"start": 9, "end": 18, "tag_name": "last_person_name"},
+        {"start": 32, "end": 40, "tag_name": "location_name"},
+        {"start": 26, "end": 40, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-45",
+      "content": "Anh Nguyễn Đức Trung đến từ công ty Nestlé.",
+      "annotations": [
+        {"start": 3, "end": 15, "tag_name": "person_name"},
+        {"start": 9, "end": 15, "tag_name": "last_person_name"},
+        {"start": 25, "end": 31, "tag_name": "location_name"},
+        {"start": 26, "end": 31, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-46",
+      "content": "Bà Tô Lệ Lệ, sinh năm 1954 (Có đơn xin vắng mặt)",
+      "annotations": [
+        {"start": 3, "end": 11, "tag_name": "person_name"},
+        {"start": 6, "end": 11, "tag_name": "last_person_name"},
+        {"start": 18, "end": 26, "tag_name": "date"},
+        {"start": 31, "end": 49, "tag_name": "organization_name"}
+      ]
+    },
+    {
+      "id": "vn-47",
+      "content": "7. Ông Tô Bình Phú, chết năm 2006",
+      "annotations": [
+        {"start": 3, "end": 15, "tag_name": "person_name"},
+        {"start": 7, "end": 15, "tag_name": "last_person_name"},
+        {"start": 24, "end": 28, "tag_name": "date"}
+      ]
+    },
+    {
+      "id": "vn-48",
+      "content": "Thẩm phán - Chủ tọa phiên tòa: Ông Nguyễn Triệu Luật.",
+      "annotations": [
+        {"start": 23, "end": 39, "tag_name": "person_name"},
+        {"start": 36, "end": 39, "tag_name": "last_person_name"}
+      ] 
+    },
+    {
+      "id": "vn-49",
+      "content": "Ông Phan Trần Vĩnh Phúc - Kiểm sát viên.",
+      "annotations": [
+        {"start": 3, "end": 22, "tag_name": "person_name"},
+        {"start": 9, "end": 22, "tag_name": "last_person_name"}
+      ]
+    }, 
+    {
+      "id": "vn-50",
+      "content": "Lê Văn N",
+      "annotations": [
+        {"start": 0, "end": 7, "tag_name": "person_name"},
+        {"start": 0, "end": 7, "tag_name": "last_person_name"}
+      ]
+    },
+    {
+    "id": "vn-51",
+    "content": "V; con ông: Lê Văn T và bà: Nguyễn Thị X",
+    "annotations": [
+        {"start": 15, "end": 22, "tag_name": "person_name"},
+        {"start": 15, "end": 22, "tag_name": "last_person_name"},
+        {"start": 33, "end": 46, "tag_name": "person_name"},
+        {"start": 41, "end": 46, "tag_name": "last_person_name"}
+      ]
+    }
+  ]
+}
