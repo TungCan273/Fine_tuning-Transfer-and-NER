@@ -1,0 +1,7985 @@
+[
+    {
+        "index": "0",
+        "sentence_id": "vn-01",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "1",
+        "sentence_id": "vn-01",
+        "word": "Mai",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "2",
+        "sentence_id": "vn-01",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "3",
+        "sentence_id": "vn-01",
+        "word": "giáo_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "4",
+        "sentence_id": "vn-01",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "5",
+        "sentence_id": "vn-01",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "6",
+        "sentence_id": "vn-01",
+        "word": "THPT",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "7",
+        "sentence_id": "vn-01",
+        "word": "A",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "8",
+        "sentence_id": "vn-01",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "9",
+        "sentence_id": "vn-02",
+        "word": "Đại_học",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "10",
+        "sentence_id": "vn-02",
+        "word": "Harvard",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "11",
+        "sentence_id": "vn-02",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "12",
+        "sentence_id": "vn-02",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "13",
+        "sentence_id": "vn-02",
+        "word": "đại_học",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "14",
+        "sentence_id": "vn-02",
+        "word": "hàng_đầu",
+        "pos_tag": "A",
+        "chunk_tag": "I-AP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "15",
+        "sentence_id": "vn-02",
+        "word": "của",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "16",
+        "sentence_id": "vn-02",
+        "word": "Mỹ",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "17",
+        "sentence_id": "vn-02",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "18",
+        "sentence_id": "vn-03",
+        "word": "Bé",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "19",
+        "sentence_id": "vn-03",
+        "word": "tên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "20",
+        "sentence_id": "vn-03",
+        "word": "Hồng",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "21",
+        "sentence_id": "vn-03",
+        "word": "đang",
+        "pos_tag": "R",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "22",
+        "sentence_id": "vn-03",
+        "word": "chơi",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "23",
+        "sentence_id": "vn-03",
+        "word": "đùa",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "24",
+        "sentence_id": "vn-03",
+        "word": "ở",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "25",
+        "sentence_id": "vn-03",
+        "word": "công_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "26",
+        "sentence_id": "vn-03",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "27",
+        "sentence_id": "vn-04",
+        "word": "Cậu",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "28",
+        "sentence_id": "vn-04",
+        "word": "bé",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "29",
+        "sentence_id": "vn-04",
+        "word": "tên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "30",
+        "sentence_id": "vn-04",
+        "word": "Hồng",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "31",
+        "sentence_id": "vn-04",
+        "word": "đang",
+        "pos_tag": "R",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "32",
+        "sentence_id": "vn-04",
+        "word": "chơi",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "33",
+        "sentence_id": "vn-04",
+        "word": "đùa",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "34",
+        "sentence_id": "vn-04",
+        "word": "ở",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "35",
+        "sentence_id": "vn-04",
+        "word": "công_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "36",
+        "sentence_id": "vn-04",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "37",
+        "sentence_id": "vn-05",
+        "word": "Ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "38",
+        "sentence_id": "vn-05",
+        "word": "Smith",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "39",
+        "sentence_id": "vn-05",
+        "word": "đến",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "40",
+        "sentence_id": "vn-05",
+        "word": "từ",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "41",
+        "sentence_id": "vn-05",
+        "word": "nước",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "42",
+        "sentence_id": "vn-05",
+        "word": "Anh",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "43",
+        "sentence_id": "vn-05",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "44",
+        "sentence_id": "vn-06",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "45",
+        "sentence_id": "vn-06",
+        "word": "Maria",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "46",
+        "sentence_id": "vn-06",
+        "word": "Fernandez",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "47",
+        "sentence_id": "vn-06",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "48",
+        "sentence_id": "vn-06",
+        "word": "giáo_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "49",
+        "sentence_id": "vn-06",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "50",
+        "sentence_id": "vn-06",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "51",
+        "sentence_id": "vn-06",
+        "word": "quốc_tế",
+        "pos_tag": "A",
+        "chunk_tag": "I-AP",
+        "ne_label": "I-ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "52",
+        "sentence_id": "vn-06",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "53",
+        "sentence_id": "vn-07",
+        "word": "Chúng_tôi",
+        "pos_tag": "PN",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "54",
+        "sentence_id": "vn-07",
+        "word": "đã",
+        "pos_tag": "R",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "55",
+        "sentence_id": "vn-07",
+        "word": "mời",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "56",
+        "sentence_id": "vn-07",
+        "word": "bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "57",
+        "sentence_id": "vn-07",
+        "word": "Trang",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "58",
+        "sentence_id": "vn-07",
+        "word": "đến",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "59",
+        "sentence_id": "vn-07",
+        "word": "dự",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "60",
+        "sentence_id": "vn-07",
+        "word": "hội_thảo",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "61",
+        "sentence_id": "vn-07",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "62",
+        "sentence_id": "vn-08",
+        "word": "Ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "63",
+        "sentence_id": "vn-08",
+        "word": "Kimura",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "64",
+        "sentence_id": "vn-08",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "65",
+        "sentence_id": "vn-08",
+        "word": "CEO",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "66",
+        "sentence_id": "vn-08",
+        "word": "của",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "67",
+        "sentence_id": "vn-08",
+        "word": "công_ty",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "68",
+        "sentence_id": "vn-08",
+        "word": "Toyota",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "69",
+        "sentence_id": "vn-08",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "70",
+        "sentence_id": "vn-09",
+        "word": "Chiếc",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "71",
+        "sentence_id": "vn-09",
+        "word": "xe",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "72",
+        "sentence_id": "vn-09",
+        "word": "của",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "73",
+        "sentence_id": "vn-09",
+        "word": "anh",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "74",
+        "sentence_id": "vn-09",
+        "word": "Tuấn",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "75",
+        "sentence_id": "vn-09",
+        "word": "bị",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "76",
+        "sentence_id": "vn-09",
+        "word": "hỏng",
+        "pos_tag": "V",
+        "chunk_tag": "I-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "77",
+        "sentence_id": "vn-09",
+        "word": "khi",
+        "pos_tag": "C",
+        "chunk_tag": "B-CC",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "78",
+        "sentence_id": "vn-09",
+        "word": "đi",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "79",
+        "sentence_id": "vn-09",
+        "word": "đến",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "80",
+        "sentence_id": "vn-09",
+        "word": "trung_tâm",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "81",
+        "sentence_id": "vn-09",
+        "word": "thành_phố",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "82",
+        "sentence_id": "vn-09",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "83",
+        "sentence_id": "vn-10",
+        "word": "Bộ",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "84",
+        "sentence_id": "vn-10",
+        "word": "trưởng",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "85",
+        "sentence_id": "vn-10",
+        "word": "Nguyễn",
+        "pos_tag": "Np",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "86",
+        "sentence_id": "vn-10",
+        "word": "Xuân",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "87",
+        "sentence_id": "vn-10",
+        "word": "Phúc",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "88",
+        "sentence_id": "vn-10",
+        "word": "đã",
+        "pos_tag": "R",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "89",
+        "sentence_id": "vn-10",
+        "word": "thông_báo",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "90",
+        "sentence_id": "vn-10",
+        "word": "về",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "91",
+        "sentence_id": "vn-10",
+        "word": "kế_hoạch",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "92",
+        "sentence_id": "vn-10",
+        "word": "phòng_chống",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "93",
+        "sentence_id": "vn-10",
+        "word": "dịch_bệnh",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "94",
+        "sentence_id": "vn-10",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "95",
+        "sentence_id": "vn-11",
+        "word": "Tôi",
+        "pos_tag": "P",
+        "chunk_tag": "N",
+        "ne_label": "B-NP",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "96",
+        "sentence_id": "vn-11",
+        "word": "rất",
+        "pos_tag": "R",
+        "chunk_tag": "B-ADVP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "97",
+        "sentence_id": "vn-11",
+        "word": "muốn",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "98",
+        "sentence_id": "vn-11",
+        "word": "đi",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "99",
+        "sentence_id": "vn-11",
+        "word": "du_lịch",
+        "pos_tag": "V",
+        "chunk_tag": "I-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "100",
+        "sentence_id": "vn-11",
+        "word": "ở",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "101",
+        "sentence_id": "vn-11",
+        "word": "nước",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "102",
+        "sentence_id": "vn-11",
+        "word": "Pháp",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "103",
+        "sentence_id": "vn-11",
+        "word": "và",
+        "pos_tag": "C",
+        "chunk_tag": "B-CC",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "104",
+        "sentence_id": "vn-11",
+        "word": "thăm",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "105",
+        "sentence_id": "vn-11",
+        "word": "Tháp_Eiffel",
+        "pos_tag": "Np",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "106",
+        "sentence_id": "vn-11",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "107",
+        "sentence_id": "vn-12",
+        "word": "Hai",
+        "pos_tag": "CD",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "108",
+        "sentence_id": "vn-12",
+        "word": "đứa",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "109",
+        "sentence_id": "vn-12",
+        "word": "trẻ",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "110",
+        "sentence_id": "vn-12",
+        "word": "nhỏ",
+        "pos_tag": "A",
+        "chunk_tag": "B-AP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "111",
+        "sentence_id": "vn-12",
+        "word": "đang",
+        "pos_tag": "R",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "112",
+        "sentence_id": "vn-12",
+        "word": "chơi",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "113",
+        "sentence_id": "vn-12",
+        "word": "bóng_đá",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "114",
+        "sentence_id": "vn-12",
+        "word": "trên",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "115",
+        "sentence_id": "vn-12",
+        "word": "sân",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "116",
+        "sentence_id": "vn-12",
+        "word": "trường_học",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "117",
+        "sentence_id": "vn-12",
+        "word": "của",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "118",
+        "sentence_id": "vn-12",
+        "word": "họ",
+        "pos_tag": "PN",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "119",
+        "sentence_id": "vn-12",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "120",
+        "sentence_id": "vn-13",
+        "word": "Tôi",
+        "pos_tag": "P",
+        "chunk_tag": "N",
+        "ne_label": "B-NP",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "121",
+        "sentence_id": "vn-13",
+        "word": "cảm_thấy",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "122",
+        "sentence_id": "vn-13",
+        "word": "vui",
+        "pos_tag": "A",
+        "chunk_tag": "B-AP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "123",
+        "sentence_id": "vn-13",
+        "word": "khi",
+        "pos_tag": "C",
+        "chunk_tag": "B-CC",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "124",
+        "sentence_id": "vn-13",
+        "word": "nhìn",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "125",
+        "sentence_id": "vn-13",
+        "word": "thấy",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "126",
+        "sentence_id": "vn-13",
+        "word": "cảnh",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "127",
+        "sentence_id": "vn-13",
+        "word": "biển",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "128",
+        "sentence_id": "vn-13",
+        "word": "đẹp",
+        "pos_tag": "A",
+        "chunk_tag": "B-AP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "129",
+        "sentence_id": "vn-13",
+        "word": "ở",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "130",
+        "sentence_id": "vn-13",
+        "word": "thành_phố",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "131",
+        "sentence_id": "vn-13",
+        "word": "Nha_Trang",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "132",
+        "sentence_id": "vn-13",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "133",
+        "sentence_id": "vn-14",
+        "word": "Hai",
+        "pos_tag": "CD",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "134",
+        "sentence_id": "vn-14",
+        "word": "cô",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "135",
+        "sentence_id": "vn-14",
+        "word": "gái",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "136",
+        "sentence_id": "vn-14",
+        "word": "trẻ",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "137",
+        "sentence_id": "vn-14",
+        "word": "đang",
+        "pos_tag": "R",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "138",
+        "sentence_id": "vn-14",
+        "word": "ngồi",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "139",
+        "sentence_id": "vn-14",
+        "word": "uống",
+        "pos_tag": "V",
+        "chunk_tag": "I-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "140",
+        "sentence_id": "vn-14",
+        "word": "trà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "141",
+        "sentence_id": "vn-14",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "142",
+        "sentence_id": "vn-14",
+        "word": "quán",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "143",
+        "sentence_id": "vn-14",
+        "word": "trà",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "144",
+        "sentence_id": "vn-14",
+        "word": "cách",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "145",
+        "sentence_id": "vn-14",
+        "word": "ngã",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "146",
+        "sentence_id": "vn-14",
+        "word": "Hà_Nội",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "147",
+        "sentence_id": "vn-14",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "148",
+        "sentence_id": "vn-15",
+        "word": "Tôi",
+        "pos_tag": "P",
+        "chunk_tag": "N",
+        "ne_label": "B-NP",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "149",
+        "sentence_id": "vn-15",
+        "word": "đã",
+        "pos_tag": "R",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "150",
+        "sentence_id": "vn-15",
+        "word": "hoàn_tất",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "151",
+        "sentence_id": "vn-15",
+        "word": "công_việc",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "152",
+        "sentence_id": "vn-15",
+        "word": "và",
+        "pos_tag": "C",
+        "chunk_tag": "B-CC",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "153",
+        "sentence_id": "vn-15",
+        "word": "sẽ",
+        "pos_tag": "R",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "154",
+        "sentence_id": "vn-15",
+        "word": "đi",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "155",
+        "sentence_id": "vn-15",
+        "word": "du_lịch",
+        "pos_tag": "V",
+        "chunk_tag": "I-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "156",
+        "sentence_id": "vn-15",
+        "word": "ở",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "157",
+        "sentence_id": "vn-15",
+        "word": "đất_Nước",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "158",
+        "sentence_id": "vn-15",
+        "word": "Úc",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "159",
+        "sentence_id": "vn-15",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "160",
+        "sentence_id": "vn-16",
+        "word": "Anh",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "161",
+        "sentence_id": "vn-16",
+        "word": "Tuấn",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "162",
+        "sentence_id": "vn-16",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "163",
+        "sentence_id": "vn-16",
+        "word": "người",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "164",
+        "sentence_id": "vn-16",
+        "word": "hướng_dẫn_viên",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "165",
+        "sentence_id": "vn-16",
+        "word": "cho",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "166",
+        "sentence_id": "vn-16",
+        "word": "đoàn_khách",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "167",
+        "sentence_id": "vn-16",
+        "word": "đến",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "168",
+        "sentence_id": "vn-16",
+        "word": "thăm",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "169",
+        "sentence_id": "vn-16",
+        "word": "đền",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "170",
+        "sentence_id": "vn-16",
+        "word": "Phật",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "171",
+        "sentence_id": "vn-16",
+        "word": "Bà",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "172",
+        "sentence_id": "vn-16",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "173",
+        "sentence_id": "vn-17",
+        "word": "Ngôi_nhà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "174",
+        "sentence_id": "vn-17",
+        "word": "của",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "175",
+        "sentence_id": "vn-17",
+        "word": "anh",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "176",
+        "sentence_id": "vn-17",
+        "word": "Tùng",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "177",
+        "sentence_id": "vn-17",
+        "word": "rất",
+        "pos_tag": "R",
+        "chunk_tag": "B-ADVP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "178",
+        "sentence_id": "vn-17",
+        "word": "đẹp",
+        "pos_tag": "A",
+        "chunk_tag": "B-AP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "179",
+        "sentence_id": "vn-17",
+        "word": "và",
+        "pos_tag": "C",
+        "chunk_tag": "B-CC",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "180",
+        "sentence_id": "vn-17",
+        "word": "sang_trọng",
+        "pos_tag": "A",
+        "chunk_tag": "B-AP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "181",
+        "sentence_id": "vn-17",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "182",
+        "sentence_id": "vn-18",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "183",
+        "sentence_id": "vn-18",
+        "word": "Hương",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "184",
+        "sentence_id": "vn-18",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "185",
+        "sentence_id": "vn-18",
+        "word": "chủ_nhà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "186",
+        "sentence_id": "vn-18",
+        "word": "của",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "187",
+        "sentence_id": "vn-18",
+        "word": "quán",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "188",
+        "sentence_id": "vn-18",
+        "word": "ăn",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "189",
+        "sentence_id": "vn-18",
+        "word": "ở",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "190",
+        "sentence_id": "vn-18",
+        "word": "trung_tâm",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "191",
+        "sentence_id": "vn-18",
+        "word": "thành_phố",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "192",
+        "sentence_id": "vn-18",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "193",
+        "sentence_id": "vn-19",
+        "word": "Tôi",
+        "pos_tag": "P",
+        "chunk_tag": "N",
+        "ne_label": "B-NP",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "194",
+        "sentence_id": "vn-19",
+        "word": "đã",
+        "pos_tag": "R",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "195",
+        "sentence_id": "vn-19",
+        "word": "đăng_ký",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "196",
+        "sentence_id": "vn-19",
+        "word": "học",
+        "pos_tag": "V",
+        "chunk_tag": "I-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "197",
+        "sentence_id": "vn-19",
+        "word": "khóa_học",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "198",
+        "sentence_id": "vn-19",
+        "word": "tin_học",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "199",
+        "sentence_id": "vn-19",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "200",
+        "sentence_id": "vn-19",
+        "word": "trung_tâm",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "201",
+        "sentence_id": "vn-19",
+        "word": "đào_tạo",
+        "pos_tag": "V",
+        "chunk_tag": "I-VP",
+        "ne_label": "I-ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "202",
+        "sentence_id": "vn-19",
+        "word": "CNTT",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "203",
+        "sentence_id": "vn-19",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "204",
+        "sentence_id": "vn-20",
+        "word": "Chiếc",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "205",
+        "sentence_id": "vn-20",
+        "word": "xe",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "206",
+        "sentence_id": "vn-20",
+        "word": "của",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "207",
+        "sentence_id": "vn-20",
+        "word": "anh",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "208",
+        "sentence_id": "vn-20",
+        "word": "Hải",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "209",
+        "sentence_id": "vn-20",
+        "word": "bị",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "210",
+        "sentence_id": "vn-20",
+        "word": "mất",
+        "pos_tag": "V",
+        "chunk_tag": "I-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "211",
+        "sentence_id": "vn-20",
+        "word": "khi",
+        "pos_tag": "C",
+        "chunk_tag": "B-CC",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "212",
+        "sentence_id": "vn-20",
+        "word": "đi",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "213",
+        "sentence_id": "vn-20",
+        "word": "đến",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "214",
+        "sentence_id": "vn-20",
+        "word": "sân_bay",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "215",
+        "sentence_id": "vn-20",
+        "word": "Tân_Sơn_Nhất",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "216",
+        "sentence_id": "vn-20",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "217",
+        "sentence_id": "vn-21",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "218",
+        "sentence_id": "vn-21",
+        "word": "Maria",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "219",
+        "sentence_id": "vn-21",
+        "word": "Fernandez",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "220",
+        "sentence_id": "vn-21",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "221",
+        "sentence_id": "vn-21",
+        "word": "giáo_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "222",
+        "sentence_id": "vn-21",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "223",
+        "sentence_id": "vn-21",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "224",
+        "sentence_id": "vn-21",
+        "word": "quốc_tế",
+        "pos_tag": "A",
+        "chunk_tag": "I-AP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "225",
+        "sentence_id": "vn-21",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "226",
+        "sentence_id": "vn-22",
+        "word": "Anh",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "227",
+        "sentence_id": "vn-22",
+        "word": "Thanh",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "228",
+        "sentence_id": "vn-22",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "229",
+        "sentence_id": "vn-22",
+        "word": "cán_bộ",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "230",
+        "sentence_id": "vn-22",
+        "word": "Uỷ ban",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "231",
+        "sentence_id": "vn-22",
+        "word": "nhân_dân",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "232",
+        "sentence_id": "vn-22",
+        "word": "Thành_phố",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-ORG",
+        "nested_ne_label": "B-LOC"
+    },
+    {
+        "index": "233",
+        "sentence_id": "vn-22",
+        "word": "Hà_Nội",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-ORG",
+        "nested_ne_label": "I-LOC"
+    },
+    {
+        "index": "234",
+        "sentence_id": "vn-22",
+        "word": ".",
+        "pos_tag": ".",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "235",
+        "sentence_id": "vn-23",
+        "word": "Ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "236",
+        "sentence_id": "vn-23",
+        "word": "Kimura",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "237",
+        "sentence_id": "vn-23",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "238",
+        "sentence_id": "vn-23",
+        "word": "CEO",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "239",
+        "sentence_id": "vn-23",
+        "word": "của",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "240",
+        "sentence_id": "vn-23",
+        "word": "công_ty",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "241",
+        "sentence_id": "vn-23",
+        "word": "Toyota",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "242",
+        "sentence_id": "vn-23",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "243",
+        "sentence_id": "vn-24",
+        "word": "Tôi",
+        "pos_tag": "PN",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "244",
+        "sentence_id": "vn-24",
+        "word": "đã",
+        "pos_tag": "R",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "245",
+        "sentence_id": "vn-24",
+        "word": "đến",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "246",
+        "sentence_id": "vn-24",
+        "word": "thăm",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "247",
+        "sentence_id": "vn-24",
+        "word": "bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "248",
+        "sentence_id": "vn-24",
+        "word": "Ngọc",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "249",
+        "sentence_id": "vn-24",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "250",
+        "sentence_id": "vn-24",
+        "word": "bệnh_viện",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "251",
+        "sentence_id": "vn-24",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "252",
+        "sentence_id": "vn-25",
+        "word": "Các",
+        "pos_tag": "L",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "253",
+        "sentence_id": "vn-25",
+        "word": "nhà",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "254",
+        "sentence_id": "vn-25",
+        "word": "khoa_học",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "255",
+        "sentence_id": "vn-25",
+        "word": "đang",
+        "pos_tag": "R",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "256",
+        "sentence_id": "vn-25",
+        "word": "nghiên_cứu",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "257",
+        "sentence_id": "vn-25",
+        "word": "về",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "258",
+        "sentence_id": "vn-25",
+        "word": "vaccine",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "259",
+        "sentence_id": "vn-25",
+        "word": "COVID-19",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "MISC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "260",
+        "sentence_id": "vn-25",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "261",
+        "sentence_id": "vn-26",
+        "word": "Tôi",
+        "pos_tag": "P",
+        "chunk_tag": "N",
+        "ne_label": "B-NP",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "262",
+        "sentence_id": "vn-26",
+        "word": "muốn",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "263",
+        "sentence_id": "vn-26",
+        "word": "mua",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "264",
+        "sentence_id": "vn-26",
+        "word": "một",
+        "pos_tag": "M",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "265",
+        "sentence_id": "vn-26",
+        "word": "chiếc",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "266",
+        "sentence_id": "vn-26",
+        "word": "xe",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "267",
+        "sentence_id": "vn-26",
+        "word": "hơi",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "268",
+        "sentence_id": "vn-26",
+        "word": "của",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "269",
+        "sentence_id": "vn-26",
+        "word": "hãng",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "270",
+        "sentence_id": "vn-26",
+        "word": "BMW",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "271",
+        "sentence_id": "vn-26",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "272",
+        "sentence_id": "vn-27",
+        "word": "Ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "273",
+        "sentence_id": "vn-27",
+        "word": "Dũng",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "274",
+        "sentence_id": "vn-27",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "275",
+        "sentence_id": "vn-27",
+        "word": "tổng_giám_đốc",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "276",
+        "sentence_id": "vn-27",
+        "word": "của",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "277",
+        "sentence_id": "vn-27",
+        "word": "công_ty",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "278",
+        "sentence_id": "vn-27",
+        "word": "VinGroup",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "279",
+        "sentence_id": "vn-27",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "280",
+        "sentence_id": "vn-28",
+        "word": "Cô",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "281",
+        "sentence_id": "vn-28",
+        "word": "Nguyệt",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "282",
+        "sentence_id": "vn-28",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "283",
+        "sentence_id": "vn-28",
+        "word": "giáo_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "284",
+        "sentence_id": "vn-28",
+        "word": "dạy",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "285",
+        "sentence_id": "vn-28",
+        "word": "môn",
+        "pos_tag": "V",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "286",
+        "sentence_id": "vn-28",
+        "word": "ngữ_văn",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "287",
+        "sentence_id": "vn-28",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "288",
+        "sentence_id": "vn-28",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "289",
+        "sentence_id": "vn-28",
+        "word": "Trung_học",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "290",
+        "sentence_id": "vn-28",
+        "word": "Phổ_thông",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "291",
+        "sentence_id": "vn-28",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "292",
+        "sentence_id": "vn-29",
+        "word": "Anh",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "293",
+        "sentence_id": "vn-29",
+        "word": "Hòa",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "294",
+        "sentence_id": "vn-29",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "295",
+        "sentence_id": "vn-29",
+        "word": "kỹ_sư",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "296",
+        "sentence_id": "vn-29",
+        "word": "làm",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "297",
+        "sentence_id": "vn-29",
+        "word": "viên_chức",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "298",
+        "sentence_id": "vn-29",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "299",
+        "sentence_id": "vn-29",
+        "word": "công_ty",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "300",
+        "sentence_id": "vn-29",
+        "word": "Viettel",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "301",
+        "sentence_id": "vn-29",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "302",
+        "sentence_id": "vn-30",
+        "word": "Cô",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "303",
+        "sentence_id": "vn-30",
+        "word": "Thảo",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "304",
+        "sentence_id": "vn-30",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "305",
+        "sentence_id": "vn-30",
+        "word": "giáo_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "306",
+        "sentence_id": "vn-30",
+        "word": "dạy",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "307",
+        "sentence_id": "vn-30",
+        "word": "môn",
+        "pos_tag": "V",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "308",
+        "sentence_id": "vn-30",
+        "word": "toán",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "309",
+        "sentence_id": "vn-30",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "310",
+        "sentence_id": "vn-30",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "311",
+        "sentence_id": "vn-30",
+        "word": "Trung_học",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "312",
+        "sentence_id": "vn-30",
+        "word": "Phổ_thông",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "313",
+        "sentence_id": "vn-30",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "314",
+        "sentence_id": "vn-31",
+        "word": "Ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "315",
+        "sentence_id": "vn-31",
+        "word": "Hùng",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "316",
+        "sentence_id": "vn-31",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "317",
+        "sentence_id": "vn-31",
+        "word": "giám_đốc",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "318",
+        "sentence_id": "vn-31",
+        "word": "của",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "319",
+        "sentence_id": "vn-31",
+        "word": "công_ty",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "320",
+        "sentence_id": "vn-31",
+        "word": "Samsung",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "321",
+        "sentence_id": "vn-31",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "322",
+        "sentence_id": "vn-32",
+        "word": "Cô",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "323",
+        "sentence_id": "vn-32",
+        "word": "Ngọc",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "324",
+        "sentence_id": "vn-32",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "325",
+        "sentence_id": "vn-32",
+        "word": "bác_sĩ",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "326",
+        "sentence_id": "vn-32",
+        "word": "chuyên_khoa",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "327",
+        "sentence_id": "vn-32",
+        "word": "gây_mê",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "328",
+        "sentence_id": "vn-32",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "329",
+        "sentence_id": "vn-32",
+        "word": "bệnh_viện",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "330",
+        "sentence_id": "vn-32",
+        "word": "Đa_khoa",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "331",
+        "sentence_id": "vn-32",
+        "word": "Bạch_Mai",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "332",
+        "sentence_id": "vn-32",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "333",
+        "sentence_id": "vn-33",
+        "word": "Trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "334",
+        "sentence_id": "vn-33",
+        "word": "Đại_học",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "335",
+        "sentence_id": "vn-33",
+        "word": "Bách_khoa",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "336",
+        "sentence_id": "vn-33",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "337",
+        "sentence_id": "vn-33",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "338",
+        "sentence_id": "vn-33",
+        "word": "đào_tạo",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "339",
+        "sentence_id": "vn-33",
+        "word": "các",
+        "pos_tag": "L",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "340",
+        "sentence_id": "vn-33",
+        "word": "kỹ_sư",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "341",
+        "sentence_id": "vn-33",
+        "word": "cơ_khí",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "342",
+        "sentence_id": "vn-33",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "343",
+        "sentence_id": "vn-34",
+        "word": "Anh",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "344",
+        "sentence_id": "vn-34",
+        "word": "Hòa",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "345",
+        "sentence_id": "vn-34",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "346",
+        "sentence_id": "vn-34",
+        "word": "kỹ_sư",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "347",
+        "sentence_id": "vn-34",
+        "word": "làm",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "348",
+        "sentence_id": "vn-34",
+        "word": "viên_chức",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "349",
+        "sentence_id": "vn-34",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "350",
+        "sentence_id": "vn-34",
+        "word": "công_ty",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "351",
+        "sentence_id": "vn-34",
+        "word": "Vingroup",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "352",
+        "sentence_id": "vn-34",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "353",
+        "sentence_id": "vn-35",
+        "word": "Cô",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "354",
+        "sentence_id": "vn-35",
+        "word": "Nguyên",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "355",
+        "sentence_id": "vn-35",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "356",
+        "sentence_id": "vn-35",
+        "word": "giáo_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "357",
+        "sentence_id": "vn-35",
+        "word": "dạy",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "358",
+        "sentence_id": "vn-35",
+        "word": "môn",
+        "pos_tag": "V",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "359",
+        "sentence_id": "vn-35",
+        "word": "toán",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "360",
+        "sentence_id": "vn-35",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "361",
+        "sentence_id": "vn-35",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "362",
+        "sentence_id": "vn-35",
+        "word": "Trung_học",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "363",
+        "sentence_id": "vn-35",
+        "word": "Phổ_thông",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "364",
+        "sentence_id": "vn-35",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "365",
+        "sentence_id": "vn-36",
+        "word": "Cô",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "366",
+        "sentence_id": "vn-36",
+        "word": "Trà",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "367",
+        "sentence_id": "vn-36",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "368",
+        "sentence_id": "vn-36",
+        "word": "giáo_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "369",
+        "sentence_id": "vn-36",
+        "word": "dạy",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "370",
+        "sentence_id": "vn-36",
+        "word": "môn",
+        "pos_tag": "V",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "371",
+        "sentence_id": "vn-36",
+        "word": "văn",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "372",
+        "sentence_id": "vn-36",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "373",
+        "sentence_id": "vn-36",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "374",
+        "sentence_id": "vn-36",
+        "word": "Trung_học",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "375",
+        "sentence_id": "vn-36",
+        "word": "Phổ_thông",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "376",
+        "sentence_id": "vn-36",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "377",
+        "sentence_id": "vn-37",
+        "word": "Anh",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "378",
+        "sentence_id": "vn-37",
+        "word": "Phạm",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "379",
+        "sentence_id": "vn-37",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "380",
+        "sentence_id": "vn-37",
+        "word": "thợ_máy",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "381",
+        "sentence_id": "vn-37",
+        "word": "làm",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "382",
+        "sentence_id": "vn-37",
+        "word": "viên_chức",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "383",
+        "sentence_id": "vn-37",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "384",
+        "sentence_id": "vn-37",
+        "word": "công_ty",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "385",
+        "sentence_id": "vn-37",
+        "word": "Apple",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "386",
+        "sentence_id": "vn-37",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "387",
+        "sentence_id": "vn-38",
+        "word": "Cô",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "388",
+        "sentence_id": "vn-38",
+        "word": "Thu",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "389",
+        "sentence_id": "vn-38",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "390",
+        "sentence_id": "vn-38",
+        "word": "giáo_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "391",
+        "sentence_id": "vn-38",
+        "word": "dạy",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "392",
+        "sentence_id": "vn-38",
+        "word": "môn",
+        "pos_tag": "V",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "393",
+        "sentence_id": "vn-38",
+        "word": "lý",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "394",
+        "sentence_id": "vn-38",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "395",
+        "sentence_id": "vn-38",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "396",
+        "sentence_id": "vn-38",
+        "word": "Trung_học",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "397",
+        "sentence_id": "vn-38",
+        "word": "Phổ_thông",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "398",
+        "sentence_id": "vn-38",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "399",
+        "sentence_id": "vn-39",
+        "word": "Ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "400",
+        "sentence_id": "vn-39",
+        "word": "Hoài",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "401",
+        "sentence_id": "vn-39",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "402",
+        "sentence_id": "vn-39",
+        "word": "giám_đốc",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "403",
+        "sentence_id": "vn-39",
+        "word": "của",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "404",
+        "sentence_id": "vn-39",
+        "word": "công_ty",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "405",
+        "sentence_id": "vn-39",
+        "word": "Vinamilk",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "406",
+        "sentence_id": "vn-39",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "407",
+        "sentence_id": "vn-40",
+        "word": "Cô",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "408",
+        "sentence_id": "vn-40",
+        "word": "Hoa",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "409",
+        "sentence_id": "vn-40",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "410",
+        "sentence_id": "vn-40",
+        "word": "giáo_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "411",
+        "sentence_id": "vn-40",
+        "word": "dạy",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "412",
+        "sentence_id": "vn-40",
+        "word": "môn",
+        "pos_tag": "V",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "413",
+        "sentence_id": "vn-40",
+        "word": "toán",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "414",
+        "sentence_id": "vn-40",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "415",
+        "sentence_id": "vn-40",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "416",
+        "sentence_id": "vn-40",
+        "word": "Trung_học",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "417",
+        "sentence_id": "vn-40",
+        "word": "Phổ_thông",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "418",
+        "sentence_id": "vn-40",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "419",
+        "sentence_id": "vn-41",
+        "word": "Anh",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "420",
+        "sentence_id": "vn-41",
+        "word": "Dương",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "421",
+        "sentence_id": "vn-41",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "422",
+        "sentence_id": "vn-41",
+        "word": "kỹ_sư",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "423",
+        "sentence_id": "vn-41",
+        "word": "làm",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "424",
+        "sentence_id": "vn-41",
+        "word": "viên_chức",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "425",
+        "sentence_id": "vn-41",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "426",
+        "sentence_id": "vn-41",
+        "word": "công_ty",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "427",
+        "sentence_id": "vn-41",
+        "word": "Samsung",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "428",
+        "sentence_id": "vn-41",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "429",
+        "sentence_id": "vn-42",
+        "word": "Cô",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "430",
+        "sentence_id": "vn-42",
+        "word": "Minh",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "431",
+        "sentence_id": "vn-42",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "432",
+        "sentence_id": "vn-42",
+        "word": "giáo_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "433",
+        "sentence_id": "vn-42",
+        "word": "dạy",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "434",
+        "sentence_id": "vn-42",
+        "word": "môn",
+        "pos_tag": "V",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "435",
+        "sentence_id": "vn-42",
+        "word": "văn",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "436",
+        "sentence_id": "vn-42",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "437",
+        "sentence_id": "vn-42",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "438",
+        "sentence_id": "vn-42",
+        "word": "Trung_học",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "439",
+        "sentence_id": "vn-42",
+        "word": "Phổ_thông",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "440",
+        "sentence_id": "vn-42",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "441",
+        "sentence_id": "vn-43",
+        "word": "Ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "442",
+        "sentence_id": "vn-43",
+        "word": "Đạt",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "443",
+        "sentence_id": "vn-43",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "444",
+        "sentence_id": "vn-43",
+        "word": "kỹ_sư",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "445",
+        "sentence_id": "vn-43",
+        "word": "của",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "446",
+        "sentence_id": "vn-43",
+        "word": "công_ty",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "447",
+        "sentence_id": "vn-43",
+        "word": "Vingroup",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "448",
+        "sentence_id": "vn-43",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "449",
+        "sentence_id": "vn-44",
+        "word": "Cô",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "450",
+        "sentence_id": "vn-44",
+        "word": "Thảo",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "451",
+        "sentence_id": "vn-44",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "452",
+        "sentence_id": "vn-44",
+        "word": "giáo_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "453",
+        "sentence_id": "vn-44",
+        "word": "dạy",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "454",
+        "sentence_id": "vn-44",
+        "word": "môn",
+        "pos_tag": "V",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "455",
+        "sentence_id": "vn-44",
+        "word": "toán",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "456",
+        "sentence_id": "vn-44",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "457",
+        "sentence_id": "vn-44",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "458",
+        "sentence_id": "vn-44",
+        "word": "Trung_học",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "459",
+        "sentence_id": "vn-44",
+        "word": "Phổ_thông",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "460",
+        "sentence_id": "vn-44",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "461",
+        "sentence_id": "vn-45",
+        "word": "Anh",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "462",
+        "sentence_id": "vn-45",
+        "word": "Đức",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "463",
+        "sentence_id": "vn-45",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "464",
+        "sentence_id": "vn-45",
+        "word": "thợ_máy",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "465",
+        "sentence_id": "vn-45",
+        "word": "làm",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "466",
+        "sentence_id": "vn-45",
+        "word": "viên_chức",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "467",
+        "sentence_id": "vn-45",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "468",
+        "sentence_id": "vn-45",
+        "word": "công_ty",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "469",
+        "sentence_id": "vn-45",
+        "word": "Apple",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "470",
+        "sentence_id": "vn-45",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "471",
+        "sentence_id": "vn-46",
+        "word": "Cô",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "472",
+        "sentence_id": "vn-46",
+        "word": "Quỳnh",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "473",
+        "sentence_id": "vn-46",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "474",
+        "sentence_id": "vn-46",
+        "word": "giáo_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "475",
+        "sentence_id": "vn-46",
+        "word": "dạy",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "476",
+        "sentence_id": "vn-46",
+        "word": "môn",
+        "pos_tag": "V",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "477",
+        "sentence_id": "vn-46",
+        "word": "lý",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "478",
+        "sentence_id": "vn-46",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "479",
+        "sentence_id": "vn-46",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "480",
+        "sentence_id": "vn-46",
+        "word": "Trung_học",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "481",
+        "sentence_id": "vn-46",
+        "word": "Phổ_thông",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "482",
+        "sentence_id": "vn-46",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "483",
+        "sentence_id": "vn-47",
+        "word": "Ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "484",
+        "sentence_id": "vn-47",
+        "word": "Khang",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "485",
+        "sentence_id": "vn-47",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "486",
+        "sentence_id": "vn-47",
+        "word": "giám_đốc",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "487",
+        "sentence_id": "vn-47",
+        "word": "của",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "488",
+        "sentence_id": "vn-47",
+        "word": "công_ty",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "489",
+        "sentence_id": "vn-47",
+        "word": "Vinamilk",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "490",
+        "sentence_id": "vn-47",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "491",
+        "sentence_id": "vn-48",
+        "word": "Cô",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "492",
+        "sentence_id": "vn-48",
+        "word": "Ngân",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "493",
+        "sentence_id": "vn-48",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "494",
+        "sentence_id": "vn-48",
+        "word": "giáo_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "495",
+        "sentence_id": "vn-48",
+        "word": "dạy",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "496",
+        "sentence_id": "vn-48",
+        "word": "môn",
+        "pos_tag": "V",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "497",
+        "sentence_id": "vn-48",
+        "word": "toán",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "498",
+        "sentence_id": "vn-48",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "499",
+        "sentence_id": "vn-48",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "500",
+        "sentence_id": "vn-48",
+        "word": "Trung_học",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "501",
+        "sentence_id": "vn-48",
+        "word": "Phổ_thông",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "502",
+        "sentence_id": "vn-48",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "503",
+        "sentence_id": "vn-49",
+        "word": "Anh",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "504",
+        "sentence_id": "vn-49",
+        "word": "Hào",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "505",
+        "sentence_id": "vn-49",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "506",
+        "sentence_id": "vn-49",
+        "word": "kỹ_sư",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "507",
+        "sentence_id": "vn-49",
+        "word": "làm",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "508",
+        "sentence_id": "vn-49",
+        "word": "viên_chức",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "509",
+        "sentence_id": "vn-49",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "510",
+        "sentence_id": "vn-49",
+        "word": "công_ty",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "511",
+        "sentence_id": "vn-49",
+        "word": "Samsung",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "512",
+        "sentence_id": "vn-49",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "513",
+        "sentence_id": "vn-50",
+        "word": "Cô",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "514",
+        "sentence_id": "vn-50",
+        "word": "Thư",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "515",
+        "sentence_id": "vn-50",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "516",
+        "sentence_id": "vn-50",
+        "word": "giáo_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "517",
+        "sentence_id": "vn-50",
+        "word": "dạy",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "518",
+        "sentence_id": "vn-50",
+        "word": "môn",
+        "pos_tag": "V",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "519",
+        "sentence_id": "vn-50",
+        "word": "văn",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "520",
+        "sentence_id": "vn-50",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "521",
+        "sentence_id": "vn-50",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "522",
+        "sentence_id": "vn-50",
+        "word": "Trung_học",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "523",
+        "sentence_id": "vn-50",
+        "word": "Phổ_thông",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "524",
+        "sentence_id": "vn-50",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "525",
+        "sentence_id": "vn-51",
+        "word": "Ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "526",
+        "sentence_id": "vn-51",
+        "word": "Hùng",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "527",
+        "sentence_id": "vn-51",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "528",
+        "sentence_id": "vn-51",
+        "word": "giám_đốc",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "529",
+        "sentence_id": "vn-51",
+        "word": "của",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "530",
+        "sentence_id": "vn-51",
+        "word": "công_ty",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "531",
+        "sentence_id": "vn-51",
+        "word": "Vingroup",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "532",
+        "sentence_id": "vn-51",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "533",
+        "sentence_id": "vn-52",
+        "word": "Cô",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "534",
+        "sentence_id": "vn-52",
+        "word": "Linh",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "535",
+        "sentence_id": "vn-52",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "536",
+        "sentence_id": "vn-52",
+        "word": "giáo_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "537",
+        "sentence_id": "vn-52",
+        "word": "dạy",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "538",
+        "sentence_id": "vn-52",
+        "word": "môn",
+        "pos_tag": "V",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "539",
+        "sentence_id": "vn-52",
+        "word": "toán",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "540",
+        "sentence_id": "vn-52",
+        "word": "tại",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "541",
+        "sentence_id": "vn-52",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "542",
+        "sentence_id": "vn-52",
+        "word": "Trung_học",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "543",
+        "sentence_id": "vn-52",
+        "word": "Phổ_thông",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "544",
+        "sentence_id": "vn-52",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "545",
+        "sentence_id": "vn-53",
+        "word": "Anh",
+        "pos_tag": "Np",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "546",
+        "sentence_id": "vn-53",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "547",
+        "sentence_id": "vn-53",
+        "word": "sinh_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "548",
+        "sentence_id": "vn-53",
+        "word": "của",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "549",
+        "sentence_id": "vn-53",
+        "word": "trường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "550",
+        "sentence_id": "vn-53",
+        "word": "Đại_học",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "551",
+        "sentence_id": "vn-53",
+        "word": "Bách_khoa",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "552",
+        "sentence_id": "vn-53",
+        "word": "Hà_Nội",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "GPE",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "553",
+        "sentence_id": "vn-53",
+        "word": "và",
+        "pos_tag": "C",
+        "chunk_tag": "C-O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "554",
+        "sentence_id": "vn-53",
+        "word": "đang",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "555",
+        "sentence_id": "vn-53",
+        "word": "được",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "556",
+        "sentence_id": "vn-53",
+        "word": "học",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "557",
+        "sentence_id": "vn-53",
+        "word": "chuyên_ngành",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "558",
+        "sentence_id": "vn-53",
+        "word": "Công_nghệ",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "559",
+        "sentence_id": "vn-53",
+        "word": "Thông_tin",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "560",
+        "sentence_id": "vn-53",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "561",
+        "sentence_id": "vn-53",
+        "word": "Nguyễn",
+        "pos_tag": "Np",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "562",
+        "sentence_id": "vn-53",
+        "word": "Văn",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "563",
+        "sentence_id": "vn-53",
+        "word": "đã",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "564",
+        "sentence_id": "vn-53",
+        "word": "được",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "565",
+        "sentence_id": "vn-53",
+        "word": "chọn",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "566",
+        "sentence_id": "vn-53",
+        "word": "làm",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "567",
+        "sentence_id": "vn-53",
+        "word": "trợ_lý",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "568",
+        "sentence_id": "vn-53",
+        "word": "cho",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "569",
+        "sentence_id": "vn-53",
+        "word": "giáo_viên",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "570",
+        "sentence_id": "vn-53",
+        "word": "hướng_dẫn",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "571",
+        "sentence_id": "vn-53",
+        "word": "nghiên_cứu",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "572",
+        "sentence_id": "vn-53",
+        "word": "về",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "573",
+        "sentence_id": "vn-53",
+        "word": "khoa_học",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "574",
+        "sentence_id": "vn-53",
+        "word": "dữ_liệu",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "575",
+        "sentence_id": "vn-53",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "576",
+        "sentence_id": "vn-54",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "577",
+        "sentence_id": "vn-54",
+        "word": "Trà",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "578",
+        "sentence_id": "vn-54",
+        "word": "Thị",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "579",
+        "sentence_id": "vn-54",
+        "word": "Thúy",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "580",
+        "sentence_id": "vn-54",
+        "word": "Diễm",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "581",
+        "sentence_id": "vn-54",
+        "word": "–",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "582",
+        "sentence_id": "vn-54",
+        "word": "Thư_ký",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "583",
+        "sentence_id": "vn-54",
+        "word": "Tòa_án",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "584",
+        "sentence_id": "vn-54",
+        "word": "nhân_dân",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "585",
+        "sentence_id": "vn-54",
+        "word": "Quận_10",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "586",
+        "sentence_id": "vn-54",
+        "word": "Thành_phố",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "LOC",
+        "nested_ne_label": "I-LOC"
+    },
+    {
+        "index": "587",
+        "sentence_id": "vn-54",
+        "word": "Hồ_Chí_Minh",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "LOC",
+        "nested_ne_label": "I-LOC"
+    },
+    {
+        "index": "588",
+        "sentence_id": "vn-54",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "589",
+        "sentence_id": "vn-55",
+        "word": "Ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "590",
+        "sentence_id": "vn-55",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "591",
+        "sentence_id": "vn-55",
+        "word": "Bình",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "592",
+        "sentence_id": "vn-55",
+        "word": "Phát",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "594",
+        "sentence_id": "vn-55",
+        "word": "sinh",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "595",
+        "sentence_id": "vn-55",
+        "word": "năm",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "596",
+        "sentence_id": "vn-55",
+        "word": "1950",
+        "pos_tag": "M",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "597",
+        "sentence_id": "vn-55",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "598",
+        "sentence_id": "vn-55",
+        "word": "(",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "599",
+        "sentence_id": "vn-55",
+        "word": "Có",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "600",
+        "sentence_id": "vn-55",
+        "word": "mặt",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "601",
+        "sentence_id": "vn-55",
+        "word": ")",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "602",
+        "sentence_id": "vn-56",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "603",
+        "sentence_id": "vn-56",
+        "word": "Nguyễn",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "604",
+        "sentence_id": "vn-56",
+        "word": "Thị",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "605",
+        "sentence_id": "vn-56",
+        "word": "Thu",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "606",
+        "sentence_id": "vn-56",
+        "word": "Nga",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "607",
+        "sentence_id": "vn-56",
+        "word": "(",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "608",
+        "sentence_id": "vn-56",
+        "word": "Có",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "609",
+        "sentence_id": "vn-56",
+        "word": "đơn",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "610",
+        "sentence_id": "vn-56",
+        "word": "xin",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "611",
+        "sentence_id": "vn-56",
+        "word": "vắng",
+        "pos_tag": "N",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "612",
+        "sentence_id": "vn-56",
+        "word": "mặt",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "613",
+        "sentence_id": "vn-56",
+        "word": ")",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "614",
+        "sentence_id": "vn-57",
+        "word": "Ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "615",
+        "sentence_id": "vn-57",
+        "word": "Nguyễn",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "616",
+        "sentence_id": "vn-57",
+        "word": "Tấn",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "617",
+        "sentence_id": "vn-57",
+        "word": "Mỹ",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "619",
+        "sentence_id": "vn-57",
+        "word": "sinh",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "620",
+        "sentence_id": "vn-57",
+        "word": "năm",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "621",
+        "sentence_id": "vn-57",
+        "word": "1964",
+        "pos_tag": "M",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "622",
+        "sentence_id": "vn-57",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "623",
+        "sentence_id": "vn-57",
+        "word": "(",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "624",
+        "sentence_id": "vn-57",
+        "word": "Có",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "625",
+        "sentence_id": "vn-57",
+        "word": "đơn",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "626",
+        "sentence_id": "vn-57",
+        "word": "xin",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "627",
+        "sentence_id": "vn-57",
+        "word": "vắng",
+        "pos_tag": "N",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "628",
+        "sentence_id": "vn-57",
+        "word": "mặt",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "629",
+        "sentence_id": "vn-57",
+        "word": ")",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "630",
+        "sentence_id": "vn-58",
+        "word": "Nơi",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "631",
+        "sentence_id": "vn-58",
+        "word": "công_tác",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "633",
+        "sentence_id": "vn-58",
+        "word": "Phòng",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "634",
+        "sentence_id": "vn-58",
+        "word": "Tài_nguyên",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "635",
+        "sentence_id": "vn-58",
+        "word": "và",
+        "pos_tag": "C",
+        "chunk_tag": "C",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "636",
+        "sentence_id": "vn-58",
+        "word": "Môi_trường",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "637",
+        "sentence_id": "vn-58",
+        "word": "Quận",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "638",
+        "sentence_id": "vn-58",
+        "word": "10",
+        "pos_tag": "M",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "639",
+        "sentence_id": "vn-59",
+        "word": "Ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "640",
+        "sentence_id": "vn-59",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "641",
+        "sentence_id": "vn-59",
+        "word": "Ngân",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "642",
+        "sentence_id": "vn-59",
+        "word": "Chen",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "644",
+        "sentence_id": "vn-59",
+        "word": "chết",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "645",
+        "sentence_id": "vn-59",
+        "word": "năm",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "646",
+        "sentence_id": "vn-59",
+        "word": "2011",
+        "pos_tag": "M",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "647",
+        "sentence_id": "vn-60",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "648",
+        "sentence_id": "vn-60",
+        "word": "Thạch",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "649",
+        "sentence_id": "vn-60",
+        "word": "Phôi",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "650",
+        "sentence_id": "vn-60",
+        "word": "Phân",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "652",
+        "sentence_id": "vn-60",
+        "word": "sinh",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "653",
+        "sentence_id": "vn-60",
+        "word": "năm",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "654",
+        "sentence_id": "vn-60",
+        "word": "1933",
+        "pos_tag": "M",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "655",
+        "sentence_id": "vn-61",
+        "word": "-",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "656",
+        "sentence_id": "vn-61",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "657",
+        "sentence_id": "vn-61",
+        "word": "Võ",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "658",
+        "sentence_id": "vn-61",
+        "word": "Thị",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "659",
+        "sentence_id": "vn-61",
+        "word": "Yến",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "660",
+        "sentence_id": "vn-61",
+        "word": "(",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "661",
+        "sentence_id": "vn-61",
+        "word": "Có",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "662",
+        "sentence_id": "vn-61",
+        "word": "đơn",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "663",
+        "sentence_id": "vn-61",
+        "word": "xin",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "664",
+        "sentence_id": "vn-61",
+        "word": "vắng",
+        "pos_tag": "N",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "665",
+        "sentence_id": "vn-61",
+        "word": "mặt",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "666",
+        "sentence_id": "vn-61",
+        "word": ")",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "667",
+        "sentence_id": "vn-62",
+        "word": "-",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "668",
+        "sentence_id": "vn-62",
+        "word": "Ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "669",
+        "sentence_id": "vn-62",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "670",
+        "sentence_id": "vn-62",
+        "word": "Đức",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "671",
+        "sentence_id": "vn-62",
+        "word": "Phúc",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "672",
+        "sentence_id": "vn-62",
+        "word": "(",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "673",
+        "sentence_id": "vn-62",
+        "word": "Có",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "674",
+        "sentence_id": "vn-62",
+        "word": "đơn",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "675",
+        "sentence_id": "vn-62",
+        "word": "xin",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "676",
+        "sentence_id": "vn-62",
+        "word": "vắng",
+        "pos_tag": "N",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "677",
+        "sentence_id": "vn-62",
+        "word": "mặt",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "678",
+        "sentence_id": "vn-62",
+        "word": ")",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "679",
+        "sentence_id": "vn-63",
+        "word": "-",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "680",
+        "sentence_id": "vn-63",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "681",
+        "sentence_id": "vn-63",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "682",
+        "sentence_id": "vn-63",
+        "word": "Kim",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "683",
+        "sentence_id": "vn-63",
+        "word": "Hồng",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "684",
+        "sentence_id": "vn-63",
+        "word": "(",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "685",
+        "sentence_id": "vn-63",
+        "word": "Có",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "686",
+        "sentence_id": "vn-63",
+        "word": "đơn",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "687",
+        "sentence_id": "vn-63",
+        "word": "xin",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "688",
+        "sentence_id": "vn-63",
+        "word": "vắng",
+        "pos_tag": "N",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "689",
+        "sentence_id": "vn-63",
+        "word": "mặt",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "690",
+        "sentence_id": "vn-63",
+        "word": ")",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "691",
+        "sentence_id": "vn-64",
+        "word": "Cùng",
+        "pos_tag": "V",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "692",
+        "sentence_id": "vn-64",
+        "word": "địa_chỉ",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "694",
+        "sentence_id": "vn-64",
+        "word": "365/76",
+        "pos_tag": "M",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "695",
+        "sentence_id": "vn-64",
+        "word": "Lê_Nội",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "696",
+        "sentence_id": "vn-64",
+        "word": "Quới",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "698",
+        "sentence_id": "vn-64",
+        "word": "Phường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "699",
+        "sentence_id": "vn-64",
+        "word": "Bình_Trị_Nguyên",
+        "pos_tag": "A",
+        "chunk_tag": "I-AP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "700",
+        "sentence_id": "vn-64",
+        "word": "Đông",
+        "pos_tag": "A",
+        "chunk_tag": "I-AP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "703",
+        "sentence_id": "vn-64",
+        "word": "Quận",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "704",
+        "sentence_id": "vn-64",
+        "word": "Bình_Tân",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "ORG",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "706",
+        "sentence_id": "vn-64",
+        "word": "Thành_phố",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "707",
+        "sentence_id": "vn-64",
+        "word": "Hồ_Chí_Minh",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "708",
+        "sentence_id": "vn-65",
+        "word": "căn",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "709",
+        "sentence_id": "vn-65",
+        "word": "nhà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "710",
+        "sentence_id": "vn-65",
+        "word": "41/5/24",
+        "pos_tag": "M",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "711",
+        "sentence_id": "vn-65",
+        "word": "Sư_Vạn_Hạnh",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "713",
+        "sentence_id": "vn-65",
+        "word": "Phường",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "714",
+        "sentence_id": "vn-65",
+        "word": "3",
+        "pos_tag": "M",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "716",
+        "sentence_id": "vn-65",
+        "word": "Quận",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "717",
+        "sentence_id": "vn-65",
+        "word": "10",
+        "pos_tag": "M",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "719",
+        "sentence_id": "vn-65",
+        "word": "TP.",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "720",
+        "sentence_id": "vn-65",
+        "word": "Hồ_Chí_Minh",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "721",
+        "sentence_id": "vn-66",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "722",
+        "sentence_id": "vn-66",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "723",
+        "sentence_id": "vn-66",
+        "word": "Lệ",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "724",
+        "sentence_id": "vn-66",
+        "word": "Lệ",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "725",
+        "sentence_id": "vn-66",
+        "word": ";",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "726",
+        "sentence_id": "vn-66",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "727",
+        "sentence_id": "vn-66",
+        "word": "Ngọc",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "728",
+        "sentence_id": "vn-66",
+        "word": "Mỹ",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "729",
+        "sentence_id": "vn-66",
+        "word": ";",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "730",
+        "sentence_id": "vn-66",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "731",
+        "sentence_id": "vn-66",
+        "word": "Bảo",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "732",
+        "sentence_id": "vn-66",
+        "word": "Ngọc",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "733",
+        "sentence_id": "vn-66",
+        "word": ";",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "734",
+        "sentence_id": "vn-66",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "735",
+        "sentence_id": "vn-66",
+        "word": "Bình_Ngọc",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "736",
+        "sentence_id": "vn-66",
+        "word": "Ngọc",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "737",
+        "sentence_id": "vn-66",
+        "word": ";",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "738",
+        "sentence_id": "vn-66",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "739",
+        "sentence_id": "vn-66",
+        "word": "Bình",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "740",
+        "sentence_id": "vn-66",
+        "word": "Trinh",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "741",
+        "sentence_id": "vn-66",
+        "word": ";",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "742",
+        "sentence_id": "vn-66",
+        "word": "ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "743",
+        "sentence_id": "vn-66",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "744",
+        "sentence_id": "vn-66",
+        "word": "Bình",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "745",
+        "sentence_id": "vn-66",
+        "word": "Phát",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "746",
+        "sentence_id": "vn-66",
+        "word": "(",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "747",
+        "sentence_id": "vn-66",
+        "word": "sinh",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "748",
+        "sentence_id": "vn-66",
+        "word": "năm",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "749",
+        "sentence_id": "vn-66",
+        "word": "1958",
+        "pos_tag": "M",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "751",
+        "sentence_id": "vn-66",
+        "word": "mất",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "752",
+        "sentence_id": "vn-66",
+        "word": "năm",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "753",
+        "sentence_id": "vn-66",
+        "word": "2007",
+        "pos_tag": "M",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "754",
+        "sentence_id": "vn-66",
+        "word": "có",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "755",
+        "sentence_id": "vn-66",
+        "word": "con",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "756",
+        "sentence_id": "vn-66",
+        "word": "là",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "757",
+        "sentence_id": "vn-66",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "758",
+        "sentence_id": "vn-66",
+        "word": "Tuấn",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "759",
+        "sentence_id": "vn-66",
+        "word": "Hửu",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "760",
+        "sentence_id": "vn-66",
+        "word": "và",
+        "pos_tag": "C",
+        "chunk_tag": "C",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "761",
+        "sentence_id": "vn-66",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "762",
+        "sentence_id": "vn-66",
+        "word": "My",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "763",
+        "sentence_id": "vn-66",
+        "word": "Na",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "764",
+        "sentence_id": "vn-66",
+        "word": "kế_thừa",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "765",
+        "sentence_id": "vn-66",
+        "word": "quyền",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "767",
+        "sentence_id": "vn-66",
+        "word": "nghĩa_vụ",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "768",
+        "sentence_id": "vn-66",
+        "word": "tố_tụng",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "769",
+        "sentence_id": "vn-66",
+        "word": "hành_chính",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "770",
+        "sentence_id": "vn-67",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "771",
+        "sentence_id": "vn-67",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "772",
+        "sentence_id": "vn-67",
+        "word": "Mỹ",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "773",
+        "sentence_id": "vn-67",
+        "word": "Yến",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "775",
+        "sentence_id": "vn-68",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "776",
+        "sentence_id": "vn-68",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "777",
+        "sentence_id": "vn-68",
+        "word": "Mỹ",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "778",
+        "sentence_id": "vn-68",
+        "word": "Châu",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "780",
+        "sentence_id": "vn-69",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "781",
+        "sentence_id": "vn-69",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "782",
+        "sentence_id": "vn-69",
+        "word": "Mỹ",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I_PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "783",
+        "sentence_id": "vn-69",
+        "word": "Ngọc",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "785",
+        "sentence_id": "vn-70",
+        "word": "Ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "786",
+        "sentence_id": "vn-70",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "787",
+        "sentence_id": "vn-70",
+        "word": "Chí",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "788",
+        "sentence_id": "vn-70",
+        "word": "Quang",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "790",
+        "sentence_id": "vn-71",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "791",
+        "sentence_id": "vn-71",
+        "word": "Võ",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "792",
+        "sentence_id": "vn-71",
+        "word": "Thị",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "I_PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "793",
+        "sentence_id": "vn-71",
+        "word": "Yến",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "795",
+        "sentence_id": "vn-72",
+        "word": "Ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "796",
+        "sentence_id": "vn-72",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "797",
+        "sentence_id": "vn-72",
+        "word": "Đức",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "798",
+        "sentence_id": "vn-72",
+        "word": "Phúc",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "800",
+        "sentence_id": "vn-73",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "801",
+        "sentence_id": "vn-73",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "802",
+        "sentence_id": "vn-73",
+        "word": "Kim",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "803",
+        "sentence_id": "vn-73",
+        "word": "Hồng",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "805",
+        "sentence_id": "vn-74",
+        "word": "Có",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "806",
+        "sentence_id": "vn-74",
+        "word": "đơn",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "807",
+        "sentence_id": "vn-74",
+        "word": "xin",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "808",
+        "sentence_id": "vn-74",
+        "word": "vắng",
+        "pos_tag": "N",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "809",
+        "sentence_id": "vn-74",
+        "word": "mặt",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "811",
+        "sentence_id": "vn-75",
+        "word": "thống_nhất",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "812",
+        "sentence_id": "vn-75",
+        "word": "với",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "813",
+        "sentence_id": "vn-75",
+        "word": "lời_khai",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "814",
+        "sentence_id": "vn-75",
+        "word": "của",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "815",
+        "sentence_id": "vn-75",
+        "word": "bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "816",
+        "sentence_id": "vn-75",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "817",
+        "sentence_id": "vn-75",
+        "word": "Yến",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I_PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "818",
+        "sentence_id": "vn-75",
+        "word": "Hoa",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "820",
+        "sentence_id": "vn-76",
+        "word": "Lê",
+        "pos_tag": "Np",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "821",
+        "sentence_id": "vn-76",
+        "word": "Văn",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "822",
+        "sentence_id": "vn-76",
+        "word": "N",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "823",
+        "sentence_id": "vn-76",
+        "word": "khai",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "824",
+        "sentence_id": "vn-76",
+        "word": "nhận",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "826",
+        "sentence_id": "vn-77",
+        "word": "Người",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "827",
+        "sentence_id": "vn-77",
+        "word": "đại_diện",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "828",
+        "sentence_id": "vn-77",
+        "word": "theo",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "829",
+        "sentence_id": "vn-77",
+        "word": "uỷ_quyền",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "830",
+        "sentence_id": "vn-77",
+        "word": ":",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "831",
+        "sentence_id": "vn-77",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "832",
+        "sentence_id": "vn-77",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "833",
+        "sentence_id": "vn-77",
+        "word": "Yến",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "834",
+        "sentence_id": "vn-77",
+        "word": "Hoa",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "837",
+        "sentence_id": "vn-77",
+        "word": "sinh",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "838",
+        "sentence_id": "vn-77",
+        "word": "năm",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "839",
+        "sentence_id": "vn-77",
+        "word": "1954",
+        "pos_tag": "M",
+        "chunk_tag": "I-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "840",
+        "sentence_id": "vn-77",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "841",
+        "sentence_id": "vn-77",
+        "word": "(",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "842",
+        "sentence_id": "vn-77",
+        "word": "Có",
+        "pos_tag": "R",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "843",
+        "sentence_id": "vn-77",
+        "word": "mặt",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "844",
+        "sentence_id": "vn-77",
+        "word": ")",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "845",
+        "sentence_id": "vn-78",
+        "word": "Ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "846",
+        "sentence_id": "vn-78",
+        "word": "Trịnh",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "847",
+        "sentence_id": "vn-78",
+        "word": "Minh",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "848",
+        "sentence_id": "vn-78",
+        "word": "khai",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "849",
+        "sentence_id": "vn-78",
+        "word": "nhận",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "850",
+        "sentence_id": "vn-78",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "851",
+        "sentence_id": "vn-79",
+        "word": "Ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "852",
+        "sentence_id": "vn-79",
+        "word": "Nguyễn",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "853",
+        "sentence_id": "vn-79",
+        "word": "Văn",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "854",
+        "sentence_id": "vn-79",
+        "word": "Anh",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "855",
+        "sentence_id": "vn-79",
+        "word": "đến",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "856",
+        "sentence_id": "vn-79",
+        "word": "từ",
+        "pos_tag": "E",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "857",
+        "sentence_id": "vn-79",
+        "word": "Thành_phố",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "LOC",
+        "nested_ne_label": "B-LOC"
+    },
+    {
+        "index": "858",
+        "sentence_id": "vn-79",
+        "word": "Hồ_Chí_Minh",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "LOC",
+        "nested_ne_label": "I-LOC"
+    },
+    {
+        "index": "859",
+        "sentence_id": "vn-79",
+        "word": "để",
+        "pos_tag": "C",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "860",
+        "sentence_id": "vn-79",
+        "word": "gặp",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "861",
+        "sentence_id": "vn-79",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "862",
+        "sentence_id": "vn-79",
+        "word": "Lê",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "863",
+        "sentence_id": "vn-79",
+        "word": "Thị",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "864",
+        "sentence_id": "vn-79",
+        "word": "Mai",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "865",
+        "sentence_id": "vn-79",
+        "word": "ở",
+        "pos_tag": "V",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "866",
+        "sentence_id": "vn-79",
+        "word": "Quận_1",
+        "pos_tag": "N",
+        "chunk_tag": "I-NP",
+        "ne_label": "LOC",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "867",
+        "sentence_id": "vn-79",
+        "word": "khi",
+        "pos_tag": "C",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "868",
+        "sentence_id": "vn-79",
+        "word": "cô",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "869",
+        "sentence_id": "vn-79",
+        "word": "Hương",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "870",
+        "sentence_id": "vn-79",
+        "word": "tới",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "871",
+        "sentence_id": "vn-79",
+        "word": "Thành_phố",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "LOC",
+        "nested_ne_label": "B-LOC"
+    },
+    {
+        "index": "872",
+        "sentence_id": "vn-79",
+        "word": "Hà_Nội",
+        "pos_tag": "Np",
+        "chunk_tag": "I-NP",
+        "ne_label": "LOC",
+        "nested_ne_label": "I-LOC"
+    },
+    {
+        "index": "873",
+        "sentence_id": "vn-80",
+        "word": "Bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-PER",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "874",
+        "sentence_id": "vn-80",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-PER",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "875",
+        "sentence_id": "vn-80",
+        "word": "Mỹ",
+        "pos_tag": "Y",
+        "chunk_tag": "I-PER",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "876",
+        "sentence_id": "vn-80",
+        "word": "Yến",
+        "pos_tag": "N",
+        "chunk_tag": "I-PER",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "878",
+        "sentence_id": "vn-80",
+        "word": "bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-PER",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "879",
+        "sentence_id": "vn-80",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-PER",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "880",
+        "sentence_id": "vn-80",
+        "word": "Mỹ",
+        "pos_tag": "Y",
+        "chunk_tag": "I-PER",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "881",
+        "sentence_id": "vn-80",
+        "word": "Châu",
+        "pos_tag": "N",
+        "chunk_tag": "I-PER",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "883",
+        "sentence_id": "vn-80",
+        "word": "bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-PER",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "884",
+        "sentence_id": "vn-80",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-PER",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "885",
+        "sentence_id": "vn-80",
+        "word": "Mỹ",
+        "pos_tag": "Y",
+        "chunk_tag": "I-PER",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "886",
+        "sentence_id": "vn-80",
+        "word": "Ngọc",
+        "pos_tag": "N",
+        "chunk_tag": "I-PER",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "888",
+        "sentence_id": "vn-80",
+        "word": "ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-PER",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "889",
+        "sentence_id": "vn-80",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-PER",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "890",
+        "sentence_id": "vn-80",
+        "word": "Chí",
+        "pos_tag": "N",
+        "chunk_tag": "I-PER",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "891",
+        "sentence_id": "vn-80",
+        "word": "Quang",
+        "pos_tag": "N",
+        "chunk_tag": "I-PER",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "893",
+        "sentence_id": "vn-80",
+        "word": "bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-PER",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "894",
+        "sentence_id": "vn-80",
+        "word": "Võ",
+        "pos_tag": "Np",
+        "chunk_tag": "I-PER",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "895",
+        "sentence_id": "vn-80",
+        "word": "Thị",
+        "pos_tag": "N",
+        "chunk_tag": "I-PER",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "896",
+        "sentence_id": "vn-80",
+        "word": "Yến",
+        "pos_tag": "N",
+        "chunk_tag": "I-PER",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "898",
+        "sentence_id": "vn-80",
+        "word": "ông",
+        "pos_tag": "N",
+        "chunk_tag": "B-PER",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "899",
+        "sentence_id": "vn-80",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-PER",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "900",
+        "sentence_id": "vn-80",
+        "word": "Đức",
+        "pos_tag": "N",
+        "chunk_tag": "I-PER",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "901",
+        "sentence_id": "vn-80",
+        "word": "Phúc",
+        "pos_tag": "N",
+        "chunk_tag": "I-PER",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "903",
+        "sentence_id": "vn-80",
+        "word": "bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-PER",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "904",
+        "sentence_id": "vn-80",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-PER",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "905",
+        "sentence_id": "vn-80",
+        "word": "Kim",
+        "pos_tag": "N",
+        "chunk_tag": "I-PER",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "906",
+        "sentence_id": "vn-80",
+        "word": "Hồng",
+        "pos_tag": "N",
+        "chunk_tag": "I-PER",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "908",
+        "sentence_id": "vn-80",
+        "word": "có",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "909",
+        "sentence_id": "vn-80",
+        "word": "đơn",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "910",
+        "sentence_id": "vn-80",
+        "word": "xin",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "911",
+        "sentence_id": "vn-80",
+        "word": "vắng",
+        "pos_tag": "N",
+        "chunk_tag": "B-PP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "912",
+        "sentence_id": "vn-80",
+        "word": "mặt",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "914",
+        "sentence_id": "vn-80",
+        "word": "thống_nhất",
+        "pos_tag": "V",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "916",
+        "sentence_id": "vn-80",
+        "word": "lời",
+        "pos_tag": "N",
+        "chunk_tag": "B-NP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "917",
+        "sentence_id": "vn-80",
+        "word": "khai",
+        "pos_tag": "N",
+        "chunk_tag": "B-VP",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "919",
+        "sentence_id": "vn-80",
+        "word": "bà",
+        "pos_tag": "N",
+        "chunk_tag": "B-PER",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "920",
+        "sentence_id": "vn-80",
+        "word": "Tô",
+        "pos_tag": "Np",
+        "chunk_tag": "I-PER",
+        "ne_label": "B-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "921",
+        "sentence_id": "vn-80",
+        "word": "Yến",
+        "pos_tag": "N",
+        "chunk_tag": "I-PER",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "922",
+        "sentence_id": "vn-80",
+        "word": "Hoa",
+        "pos_tag": "Np",
+        "chunk_tag": "I-PER",
+        "ne_label": "I-PER",
+        "nested_ne_label": "O"
+    },
+    {
+        "index": "923",
+        "sentence_id": "vn-80",
+        "word": ".",
+        "pos_tag": "CH",
+        "chunk_tag": "O",
+        "ne_label": "O",
+        "nested_ne_label": "O"
+    }
+]
